@@ -1,4 +1,4 @@
-# taller-de-variable-{
+# tallervariable{
 public static void main(String[] args) {
 double d1, d2, d3;
 double t1, t2, t3; 
